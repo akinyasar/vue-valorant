@@ -5,24 +5,6 @@
       "email": "akin@gmail.com",
       "password": "123456",
       "id": 1
-    },
-    {
-      "username": "test",
-      "email": "akinyasar762000@hotmail.com",
-      "password": "1232131",
-      "id": 2
-    },
-    {
-      "username": "gamzeagirtas",
-      "email": "gamze@gmail.com",
-      "password": "123456",
-      "id": 3
-    },
-    {
-      "username": "akinyasar",
-      "email": "akinyasar762000@hotmail.com",
-      "password": "123456",
-      "id": 4
     }
   ]
 }
